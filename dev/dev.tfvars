@@ -37,7 +37,7 @@ monitoring_vars = {
   notification = {
     display_name = "test-function-notification"
     slack_channel_name = "#testworkspace"
-    slack_auth_token = "xoxb-6509062426210-6506276380149-SV0VmAIUv6a1FiiG2pIgs1u9"
+    slack_auth_token = "your slack app token"
   }
   alert_policy = {
     display_name = "test-function-alertpolicy"
